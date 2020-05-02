@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-public class GitHub {
+public class TestAPI {
 
     private Utility utility = null;
 
